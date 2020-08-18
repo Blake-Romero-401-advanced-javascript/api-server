@@ -1,0 +1,11 @@
+{
+  "categories": [
+    {
+      "id": "id1",
+      "name": "fun",
+      "display_name": "Fun Stuff",
+      "description": "this stuff is so much fun!"
+    }
+  ],
+  "products": []
+}
